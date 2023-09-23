@@ -31,3 +31,68 @@
 29/09/2023 09:00;Barbeador Elétrico Premium;Empresa EE;Tecnologia de Corte Preciso +  Recarregável +  Display LED
 29/09/2023 11:45;Smartwatch Fitness;Empresa FF;Monitor Cardíaco +  Rastreamento de Atividades +  Resistente à Água
 29/09/2023 14:20;Ar Condicionado Split;Empresa GG;Capacidade de 12.000 BTU +  Controle Remoto +  Modo Econômico
+2023-09-23 08:00:00;Notebook XYZ;Tela de 6.5 polegadas + 256GB de Armazenamento +'Câmera de 64MP
+2023-09-23 10:30:00;Smartphone ABC;Impressão em Preto e Branco + Ethernet Integrado +'Velocidade de 40 ppm
+2023-09-23 14:15:00;Impressora QWERTY;Bluetooth 5.2 + Cancelamento de Ruído Avançado +'Bateria de 30 Horas
+2023-09-23 16:45:00;Fone de Ouvido ZZZ;Tela de 11 polegadas + 128GB de Armazenamento +'Android 12
+2023-09-23 20:20:00;Tablet 123;Resolução de 20MP + Lente Zoom 18-135mm +'Gravação de Vídeo 4K
+2023-09-24 09:30:00;Câmera DSLR 2000;Resolução 2560x1440 + Conexões HDMI e DisplayPort +'Taxa de Atualização de 144Hz
+2023-09-24 11:45:00;Monitor LCD 27 polegadas;16 Botões Programáveis + Iluminação RGB Personalizável +'Sensor Óptico de Alta Precisão
+2023-09-24 13:20:00;Mouse Gamer XYZ;Switches Cherry MX Brown + Retroiluminação RGB Personalizável +'Descanso de Pulso Acolchoado
+2023-09-24 15:55:00;Teclado Mecânico ABC;Acendimento Automático + Forno com Grill e Convecção +'Tampa de Vidro Temperado
+2023-09-24 18:10:00;Fogão a Gás 4 Bocas;Potência de 1800W + Filtro HEPA Lavável +'Capacidade de 3 Litros
+2023-09-24 20:30:00;Aspirador de Pó Vortex;Tela OLED 4K + Sistema Operacional SmartTV +'4 Entradas HDMI
+2023-09-25 10:15:00;Smart TV 55 polegadas;Capacidade de 8 Litros + Programas de Cozimento Inteligentes +'Função de Manter Aquecido
+2023-09-25 12:45:00;Panela de Pressão Elétrica;Potência de 2200W + 4 Velocidades +'Tecnologia de Íons Negativos
+2023-09-25 14:30:00;Secador de Cabelo Profissional;Mostrador Analógico + Pulseira de Aço Inoxidável +'Resistente à Água até 50 Metros
+2023-09-25 16:55:00;Relógio de Pulso Elegance;Encosto Reclinável + Apoio de Braços Ajustáveis +'Rodízios Duplos de Alta Resistência
+2023-09-25 19:20:00;Cadeira de Escritório Ergonômica;Capacidade de 12kg + 15 Programas de Lavagem +'Centrifugação de Alta Velocidade
+2023-09-26 08:30:00;Máquina de Lavar Roupas;Processador Octa-Core de 7nm + Gráficos 8K +'2TB de Armazenamento SSD
+2023-09-26 11:10:00;Console de Videojogo X-Play;Capacidade de 30 Litros + Painel Touchscreen +'Função de Descongelamento Rápido
+2023-09-26 14:00:00;Micro-ondas Digital;Tela de 13.3 polegadas Full HD + 32GB de RAM +'SSD de 1TB
+2023-09-26 16:30:00;Notebook Ultra Slim;Cancelamento de Ruído Híbrido + Bateria de 40 Horas +'Microfone com Supressão de Ruído
+2023-09-26 18:50:00;Fone de Ouvido Bluetooth;Capacidade de 500 Litros + Dispenser de Água e Gelo na Porta +'Prateleiras Ajustáveis
+2023-09-27 09:25:00;Geladeira Frost-Free;Pressão de 20 Bar + Moedor de Café Integrado +'Vaporizador de Leite Automático
+2023-09-27 12:15:00;Máquina de Café Expresso;Capacidade de 40 Litros + Controle de Temperatura Preciso +'Função de Convecção
+2023-09-27 15:00:00;Forno Elétrico Compacto;Conexão USB-C + Backup Automático em Nuvem +'Design Robusto à Prova de Choque
+2023-09-27 17:40:00;HD Externo 1TB;Mapeamento 3D Inteligente + Limpeza de Cantos aprimorada +'Autonomia de 2
+2023-09-28 08:45:00;Robô Aspirador de Pó;Tela de 8 polegadas + Conteúdo Educacional Interativo +'Capa à Prova de Choque5 Horas
+2023-09-28 11:20:00;Tablet Kids Edition;Áudio Surround 7.1 + Microfone com Cancelamento de Ruído Avançado +'Almofadas de Ouvido com Gel
+2023-09-28 13:50:00;Headset Gamer Pro;Resolução 4K Ultra HD + Visão Noturna Colorida +'Armazenamento em Cartão SD
+2023-09-28 16:10:00;Câmera de Segurança IP;Tela Touch 15 polegadas + Processador Intel Core i7 +'SSD de 1TB
+2023-09-28 18:30:00;Notebook Convertível 2 em 1;Tecnologia de Corte a Laser + Recarregável sem Fio +'Indicador de Bateria em LED
+2023-09-29 09:00:00;Barbeador Elétrico Premium;Monitor Cardíaco Avançado + Rastreamento de Atividades em Tempo Real +'Resistente à Água até 100 Metros
+2023-09-29 11:45:00;Smartwatch Fitness;Capacidade de 18.000 BTU + Controle por Aplicativo +'Modo de Economia de Energia
+2023-09-29 14:20:00;Ar Condicionado Split;Tela de 16 polegadas + 32GB de RAM +'1TB SSD
+2023-09-29 16:40:00;Notebook XYZ;Tela de 6.8 polegadas + 512GB de Armazenamento +'Câmera de 108MP
+2023-09-29 19:10:00;Smartphone ABC;Impressão em Cores de Alta Qualidade + Conexão Wi-Fi Rápida +'Velocidade de 60 ppm
+2023-09-29 22:00:00;Impressora QWERTY;Bluetooth 5.3 + Cancelamento de Ruído Máximo +'Bateria de 50 Horas
+2023-09-30 09:30:00;Fone de Ouvido ZZZ;Tela de 12 polegadas + 256GB de Armazenamento +'Android 13
+2023-09-30 12:00:00;Tablet 123;Resolução de 30MP + Lente Zoom 18-200mm +'Gravação de Vídeo 8K
+2023-09-30 14:45:00;Câmera DSLR 2000;Resolução 3840x2160 + Conexões HDMI 2.1 e DisplayPort +'Taxa de Atualização de 240Hz
+2023-09-30 17:10:00;Monitor LCD 27 polegadas;20 Botões Programáveis + Iluminação RGB Personalizável +'Sensor Óptico de Ultra Precisão
+2023-09-30 19:40:00;Mouse Gamer XYZ;Switches Cherry MX Blue + Retroiluminação RGB Personalizável +'Descanso de Pulso em Couro
+2023-09-30 22:15:00;Teclado Mecânico ABC;Acendimento Eletrônico + Forno com Grill e Autolimpeza +'Tampa de Vidro Temperado
+2023-10-01 08:45:00;Fogão a Gás 4 Bocas;Potência de 2000W + Filtro HEPA de Alta Eficiência +'Capacidade de 4 Litros
+2023-10-01 11:20:00;Aspirador de Pó Vortex;Tela QLED 8K + Sistema Operacional SmartTV Plus +'5 Entradas HDMI
+2023-10-01 13:50:00;Smart TV 55 polegadas;Capacidade de 10 Litros + Programas de Cozimento Customizáveis +'Função de Despressurização Rápida
+2023-10-01 16:30:00;Panela de Pressão Elétrica;Potência de 2400W + 5 Velocidades e Temperaturas +'Tecnologia de Íons e Cerâmica
+2023-10-01 18:55:00;Secador de Cabelo Profissional;Mostrador Digital + Pulseira de Aço Inoxidável Banhado a Ouro +'Cronômetro e Calendário
+2023-10-01 21:15:00;Relógio de Pulso Elegance;Encosto em Malha Respirável + Apoio de Braços Ajustáveis em 4 Direções +'Base Giratória de 360°
+2023-10-02 08:20:00;Cadeira de Escritório Ergonômica;Capacidade de 15kg + 20 Programas de Lavagem +'Centrifugação Silenciosa
+2023-10-02 10:45:00;Máquina de Lavar Roupas;Processador Octa-Core de 5nm + Gráficos Ray Tracing +'4TB de Armazenamento SSD
+2023-10-02 13:30:00;Console de Videojogo X-Play;Capacidade de 35 Litros + Painel Touchscreen LCD Colorido +'Função de Cozimento por Convecção
+2023-10-02 15:55:00;Micro-ondas Digital;Tela de 14 polegadas QHD + 64GB de RAM +'SSD de 2TB
+2023-10-02 18:20:00;Notebook Ultra Slim;Cancelamento de Ruído Adaptativo + Bateria de 60 Horas +'Microfone de Estúdio
+2023-10-02 20:40:00;Fone de Ouvido Bluetooth;Capacidade de 600 Litros + Dispenser de Água e Gelo na Porta com Filtro de Carvão +'Gavetas de Armazenamento
+2023-10-03 09:10:00;Geladeira Frost-Free;Pressão de 25 Bar + Moedor de Café de Cerâmica +'Sistema de Aquecimento Rápido
+2023-10-03 11:35:00;Máquina de Café Expresso;Capacidade de 45 Litros + Controle de Umidade +'Função de Autolimpeza
+2023-10-03 14:15:00;Forno Elétrico Compacto;Conexão USB 3.1 Gen 2 + Criptografia de Dados de Hardware +'Design Elegante de Alumínio
+2023-10-03 16:45:00;HD Externo 2TB;Mapeamento Visual com IA + Limpeza Personalizada por Cômodo +'Autonomia de 3 Horas
+2023-10-03 19:00:00;Robô Aspirador de Pó;Tela de 10 polegadas + Controle Parental Avançado +'Capa à Prova de Água
+2023-10-04 08:30:00;Tablet Kids Edition;Áudio Surround 9.1 + Microfone com Cancelamento de Ruído Adaptável +'Almofadas de Memória
+2023-10-04 11:00:00;Headset Gamer Pro;Resolução 8K Ultra HD + Visão Noturna Infravermelha +'Armazenamento em Nuvem com Criptografia
+2023-10-04 13:45:00;Câmera de Segurança IP;Tela Touch 14 polegadas 4K + Processador AMD Ryzen 9 +'SSD de 4TB
+2023-10-04 16:20:00;Notebook Convertível 2 em 1;Tecnologia de Corte Ultrassônico + Autolimpeza Inteligente +'Visor OLED
+2023-10-04 18:45:00;Barbeador Elétrico Premium;Monitor Cardíaco em Tempo Real + GPS Integrado +'Resistente à Água até 200 Metros
+2023-10-04 21:10:00;Smartwatch Fitness;Capacidade de 24.000 BTU + Controle por Voz +'Modo de Desumidificação
