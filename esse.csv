@@ -1,33 +1,33 @@
-2023-09-23 08:00:00,Notebook XYZ,Empresa A,Tela de 15 polegadas, 8GB de RAM, 256GB SSD
-2023-09-23 10:30:00,Smartphone ABC,Empresa B,Tela de 6.2 polegadas, 128GB de Armazenamento, Câmera de 48MP
-2023-09-23 14:15:00,Impressora QWERTY,Empresa C,Impressão Colorida, Wi-Fi Integrado, Velocidade de 30 ppm
-2023-09-23 16:45:00,Fone de Ouvido ZZZ,Empresa D,Bluetooth 5.0, Cancelamento de Ruído, Bateria de Longa Duração
-2023-09-23 20:20:00,Tablet 123,Empresa E,Tela de 10 polegadas, 64GB de Armazenamento, Android 11
-2023-09-24 09:30:00,Câmera DSLR 2000,Empresa F,Resolução de 24MP, Lente Zoom 18-55mm, Gravação de Vídeo Full HD
-2023-09-24 11:45:00,Monitor LCD 27 polegadas,Empresa G,Resolução 1920x1080, Conexões HDMI e VGA, Taxa de Atualização de 60Hz
-2023-09-24 13:20:00,Mouse Gamer XYZ,Empresa H,12 Botões Programáveis, Iluminação RGB Personalizável, Sensor Óptico de Alta Precisão
-2023-09-24 15:55:00,Teclado Mecânico ABC,Empresa I,Switches Cherry MX Red, Retroiluminação LED, Descanso de Pulso Ergonômico
-2023-09-24 18:10:00,Fogão a Gás 4 Bocas,Empresa J,Acendimento Automático, Forno com Grill, Tampa de Vidro Temperado
-2023-09-24 20:30:00,Aspirador de Pó Vortex,Empresa K,Potência de 1500W, Filtro HEPA, Capacidade de 2 Litros
-2023-09-25 10:15:00,Smart TV 55 polegadas,Empresa L,Tela 4K, Sistema Operacional Smart, 4 Entradas HDMI
-2023-09-25 12:45:00,Panela de Pressão Elétrica,Empresa M,Capacidade de 6 Litros, Programas de Cozimento, Função Timer
-2023-09-25 14:30:00,Secador de Cabelo Profissional,Empresa N,Potência de 2000W, 3 Velocidades, Tecnologia de Íons
-2023-09-25 16:55:00,Relógio de Pulso Elegance,Empresa O,Mostrador Analógico, Pulseira de Couro Genuíno, Resistente à Água
-2023-09-25 19:20:00,Cadeira de Escritório Ergonômica,Empresa P,Encosto Ajustável, Apoio de Braços, Rodízios Silenciosos
-2023-09-26 08:30:00,Máquina de Lavar Roupas,Empresa Q,Capacidade de 10kg, 12 Programas de Lavagem, Centrifugação
-2023-09-26 11:10:00,Console de Videojogo X-Play,Empresa R,Processador Octa-Core, Gráficos 4K, 1TB de Armazenamento
-2023-09-26 14:00:00,Micro-ondas Digital,Empresa S,Capacidade de 25 Litros, Painel Touch, Função Grill
-2023-09-26 16:30:00,Notebook Ultra Slim,Empresa T,Tela de 14 polegadas, 16GB de RAM, SSD de 512GB
-2023-09-26 18:50:00,Fone de Ouvido Bluetooth,Empresa U,Cancelamento de Ruído Ativo, Bateria de 20 Horas, Microfone Integrado
-2023-09-27 09:25:00,Geladeira Frost-Free,Empresa V,Capacidade de 400 Litros, Dispenser de Água e Gelo, Iluminação LED
-2023-09-27 12:15:00,Máquina de Café Expresso,Empresa W,Pressão de 15 Bar, Moedor de Grãos Integrado, Vaporizador de Leite
-2023-09-27 15:00:00,Forno Elétrico Compacto,Empresa X,Capacidade de 30 Litros, Controle de Temperatura, Timer Programável
-2023-09-27 17:40:00,HD Externo 1TB,Empresa Y,Conexão USB 3.0, Backup Automático, Design Portátil
-2023-09-28 08:45:00,Robô Aspirador de Pó,Empresa Z,Mapeamento Inteligente, Limpeza de Cantos, Autonomia de 2 Horas
-2023-09-28 11:20:00,Tablet Kids Edition,Empresa AA,Tela de 7 polegadas, Controle Parental, Conteúdo Educacional
-2023-09-28 13:50:00,Headset Gamer Pro,Empresa BB,Áudio Surround 7.1, Microfone com Cancelamento de Ruído, Conforto Longa Duração
-2023-09-28 16:10:00,Câmera de Segurança IP,Empresa CC,Resolução Full HD, Visão Noturna, Acesso Remoto
-2023-09-28 18:30:00,Notebook Convertível 2 em 1,Empresa DD,Tela Touch 13.3 polegadas, Processador Intel Core i5, SSD de 256GB
-2023-09-29 09:00:00,Barbeador Elétrico Premium,Empresa EE,Tecnologia de Corte Preciso, Recarregável, Display LED
-2023-09-29 11:45:00,Smartwatch Fitness,Empresa FF,Monitor Cardíaco, Rastreamento de Atividades, Resistente à Água
-2023-09-29 14:20:00,Ar Condicionado Split,Empresa GG,Capacidade de 12.000 BTU, Controle Remoto, Modo Econômico
+23/09/2023 08:00;Notebook XYZ;Empresa A;Tela de 15 polegadas +  8GB de RAM +  256GB SSD
+23/09/2023 10:30;Smartphone ABC;Empresa B;Tela de 6.2 polegadas +  128GB de Armazenamento +  Câmera de 48MP
+23/09/2023 14:15;Impressora QWERTY;Empresa C;Impressão Colorida +  Wi-Fi Integrado +  Velocidade de 30 ppm
+23/09/2023 16:45;Fone de Ouvido ZZZ;Empresa D;Bluetooth 5.0 +  Cancelamento de Ruído +  Bateria de Longa Duração
+23/09/2023 20:20;Tablet 123;Empresa E;Tela de 10 polegadas +  64GB de Armazenamento +  Android 11
+24/09/2023 09:30;Câmera DSLR 2000;Empresa F;Resolução de 24MP +  Lente Zoom 18-55mm +  Gravação de Vídeo Full HD
+24/09/2023 11:45;Monitor LCD 27 polegadas;Empresa G;Resolução 1920x1080 +  Conexões HDMI e VGA +  Taxa de Atualização de 60Hz
+24/09/2023 13:20;Mouse Gamer XYZ;Empresa H;12 Botões Programáveis +  Iluminação RGB Personalizável +  Sensor Óptico de Alta Precisão
+24/09/2023 15:55;Teclado Mecânico ABC;Empresa I;Switches Cherry MX Red +  Retroiluminação LED +  Descanso de Pulso Ergonômico
+24/09/2023 18:10;Fogão a Gás 4 Bocas;Empresa J;Acendimento Automático +  Forno com Grill +  Tampa de Vidro Temperado
+24/09/2023 20:30;Aspirador de Pó Vortex;Empresa K;Potência de 1500W +  Filtro HEPA +  Capacidade de 2 Litros
+25/09/2023 10:15;Smart TV 55 polegadas;Empresa L;Tela 4K +  Sistema Operacional Smart +  4 Entradas HDMI
+25/09/2023 12:45;Panela de Pressão Elétrica;Empresa M;Capacidade de 6 Litros +  Programas de Cozimento +  Função Timer
+25/09/2023 14:30;Secador de Cabelo Profissional;Empresa N;Potência de 2000W +  3 Velocidades +  Tecnologia de Íons
+25/09/2023 16:55;Relógio de Pulso Elegance;Empresa O;Mostrador Analógico +  Pulseira de Couro Genuíno +  Resistente à Água
+25/09/2023 19:20;Cadeira de Escritório Ergonômica;Empresa P;Encosto Ajustável +  Apoio de Braços +  Rodízios Silenciosos
+26/09/2023 08:30;Máquina de Lavar Roupas;Empresa Q;Capacidade de 10kg +  12 Programas de Lavagem +  Centrifugação
+26/09/2023 11:10;Console de Videojogo X-Play;Empresa R;Processador Octa-Core +  Gráficos 4K +  1TB de Armazenamento
+26/09/2023 14:00;Micro-ondas Digital;Empresa S;Capacidade de 25 Litros +  Painel Touch +  Função Grill
+26/09/2023 16:30;Notebook Ultra Slim;Empresa T;Tela de 14 polegadas +  16GB de RAM +  SSD de 512GB
+26/09/2023 18:50;Fone de Ouvido Bluetooth;Empresa U;Cancelamento de Ruído Ativo +  Bateria de 20 Horas +  Microfone Integrado
+27/09/2023 09:25;Geladeira Frost-Free;Empresa V;Capacidade de 400 Litros +  Dispenser de Água e Gelo +  Iluminação LED
+27/09/2023 12:15;Máquina de Café Expresso;Empresa W;Pressão de 15 Bar +  Moedor de Grãos Integrado +  Vaporizador de Leite
+27/09/2023 15:00;Forno Elétrico Compacto;Empresa X;Capacidade de 30 Litros +  Controle de Temperatura +  Timer Programável
+27/09/2023 17:40;HD Externo 1TB;Empresa Y;Conexão USB 3.0 +  Backup Automático +  Design Portátil
+28/09/2023 08:45;Robô Aspirador de Pó;Empresa Z;Mapeamento Inteligente +  Limpeza de Cantos +  Autonomia de 2 Horas
+28/09/2023 11:20;Tablet Kids Edition;Empresa AA;Tela de 7 polegadas +  Controle Parental +  Conteúdo Educacional
+28/09/2023 13:50;Headset Gamer Pro;Empresa BB;Áudio Surround 7.1 +  Microfone com Cancelamento de Ruído +  Conforto Longa Duração
+28/09/2023 16:10;Câmera de Segurança IP;Empresa CC;Resolução Full HD +  Visão Noturna +  Acesso Remoto
+28/09/2023 18:30;Notebook Convertível 2 em 1;Empresa DD;Tela Touch 13.3 polegadas +  Processador Intel Core i5 +  SSD de 256GB
+29/09/2023 09:00;Barbeador Elétrico Premium;Empresa EE;Tecnologia de Corte Preciso +  Recarregável +  Display LED
+29/09/2023 11:45;Smartwatch Fitness;Empresa FF;Monitor Cardíaco +  Rastreamento de Atividades +  Resistente à Água
+29/09/2023 14:20;Ar Condicionado Split;Empresa GG;Capacidade de 12.000 BTU +  Controle Remoto +  Modo Econômico
